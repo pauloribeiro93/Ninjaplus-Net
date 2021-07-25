@@ -6,12 +6,12 @@ namespace NinjaPlus.Pages
     {
         private readonly BrowserSession _browser;
 
-        public Sidebar(BrowserSession Browser) //Tem que ter o mesmo nome que a class
+        public Sidebar(BrowserSession Browser)
         {
             _browser = Browser;
         }
 
-        public string LoggedUser() //Para ele poder devolver uma String
+        public string LoggedUser() 
         {
            return _browser.FindCss(".user .info span").Text;
            
