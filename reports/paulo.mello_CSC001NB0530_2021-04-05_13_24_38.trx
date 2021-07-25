@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="e87862f5-a2b2-46c0-a1f8-946ab2b506f9" name="paulo.mello@CSC001NB0530 2021-04-05 13:24:38" runUser="CSC\paulo.mello" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-04-05T13:24:38.2230925-03:00" queuing="2021-04-05T13:24:38.2230925-03:00" start="2021-04-05T13:22:09.2660922-03:00" finish="2021-04-05T13:31:14.7170267-03:00" />
+  <TestSettings name="default" id="1225dccf-19bc-4f11-b80a-2975c8f07365">
+    <Deployment runDeploymentRoot="paulo.mello_CSC001NB0530_2021-04-05_13_24_38" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="d545f2dd-c830-40ba-9220-b8a266cbc7a8" testId="4ea70cc2-7a0c-3b68-632a-1d12588bcb08" testName="ShouldSeeIncorrectPass(&quot;paulo@ninjaplus.com&quot;,&quot;123456&quot;,&quot;Usuário e/ou senha inválidos&quot;)" computerName="CSC001NB0530" duration="00:00:41.3662540" startTime="2021-04-05T13:27:42.0000000-03:00" endTime="2021-04-05T13:28:24.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d545f2dd-c830-40ba-9220-b8a266cbc7a8">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1002.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="0b10adb5-ddb4-439d-9d50-0a0892b7156b" testId="5694b3c2-158f-44de-4ca4-bab979df83a4" testName="ShouldFindUniqueMovie" computerName="CSC001NB0530" duration="00:00:58.0875800" startTime="2021-04-05T13:26:44.0000000-03:00" endTime="2021-04-05T13:27:42.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b10adb5-ddb4-439d-9d50-0a0892b7156b">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1012.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="f8190ae1-81c3-4913-8083-5aed099c3672" testId="a922b913-2ba2-b0b6-7607-8bd4dedf5498" testName="ShouldDisplayMovieFound" computerName="CSC001NB0530" duration="00:00:51.1466800" startTime="2021-04-05T13:24:38.0000000-03:00" endTime="2021-04-05T13:25:29.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8190ae1-81c3-4913-8083-5aed099c3672">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1014.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="475027d2-82a8-46f0-bc97-2fdfe555c16d" testId="04a823c6-463b-c78e-a1f1-31a90652b3ab" testName="ShouldSeeIncorrectPass(&quot;404@ninjaplus.com&quot;,&quot;123pwd&quot;,&quot;Usuário e/ou senha inválidos&quot;)" computerName="CSC001NB0530" duration="00:00:37.8427900" startTime="2021-04-05T13:28:24.0000000-03:00" endTime="2021-04-05T13:29:01.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="475027d2-82a8-46f0-bc97-2fdfe555c16d">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1003.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="d4e08959-89c4-4dfe-8c78-a049316f792b" testId="9abfaa99-8460-5ebc-6200-487d8c741b0b" testName="ShouldSeeLoggedUser" computerName="CSC001NB0530" duration="00:00:37.3484670" startTime="2021-04-05T13:30:17.0000000-03:00" endTime="2021-04-05T13:30:54.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4e08959-89c4-4dfe-8c78-a049316f792b">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1001.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="da912f91-f70b-47c9-a174-bc880a9e65cb" testId="9c68b3c4-dbfb-c34b-3008-99b2525cf48d" testName="ShouldSeeIncorrectPass(&quot;paulo@ninjaplus.com&quot;,&quot;&quot;,&quot;Opps. Cadê a senha?&quot;)" computerName="CSC001NB0530" duration="00:00:37.5732069" startTime="2021-04-05T13:29:39.0000000-03:00" endTime="2021-04-05T13:30:17.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da912f91-f70b-47c9-a174-bc880a9e65cb">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1005.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="2234155d-72d9-4661-b827-ed70cdc0969b" testId="57941d4d-e8ad-da49-dd57-bf3aaea743df" testName="ShouldBeHaveTitle" computerName="CSC001NB0530" duration="00:00:20.1161950" startTime="2021-04-05T13:30:54.0000000-03:00" endTime="2021-04-05T13:31:14.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2234155d-72d9-4661-b827-ed70cdc0969b">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1008.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="e46ce4c1-b8b4-498f-9c8b-c11da9d0c62d" testId="e62773c6-4041-3829-a47c-5e42126314da" testName="ShouldSaveMovie" computerName="CSC001NB0530" duration="00:02:26.7979660" startTime="2021-04-05T13:22:11.0000000-03:00" endTime="2021-04-05T13:24:38.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e46ce4c1-b8b4-498f-9c8b-c11da9d0c62d">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1010.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="2ba72feb-a8b8-4d56-ba5e-c5edcc840d9a" testId="cb89330b-0c80-a6f9-220c-6c663eef755d" testName="ShouldFindMovies" computerName="CSC001NB0530" duration="00:01:15.3572650" startTime="2021-04-05T13:25:29.0000000-03:00" endTime="2021-04-05T13:26:44.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2ba72feb-a8b8-4d56-ba5e-c5edcc840d9a">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1013.png" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="68e970b4-2e5f-4e21-89f4-549976870c94" testId="8bfeb03c-2479-9327-429d-d9e64bf4df06" testName="ShouldSeeIncorrectPass(&quot;&quot;,&quot;123pwd&quot;,&quot;Opps. Cadê o email?&quot;)" computerName="CSC001NB0530" duration="00:00:37.5287140" startTime="2021-04-05T13:29:01.0000000-03:00" endTime="2021-04-05T13:29:39.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68e970b4-2e5f-4e21-89f4-549976870c94">
+      <ResultFiles>
+        <ResultFile path="CSC001NB0530\0-1004.png" />
+      </ResultFiles>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="ShouldSeeIncorrectPass(&quot;paulo@ninjaplus.com&quot;,&quot;&quot;,&quot;Opps. Cadê a senha?&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="9c68b3c4-dbfb-c34b-3008-99b2525cf48d">
+      <Execution id="da912f91-f70b-47c9-a174-bc880a9e65cb" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjasPlus.Tests.LoginTests" name="ShouldSeeIncorrectPass(&quot;paulo@ninjaplus.com&quot;,&quot;&quot;,&quot;Opps. Cadê a senha?&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeIncorrectPass(&quot;&quot;,&quot;123pwd&quot;,&quot;Opps. Cadê o email?&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="8bfeb03c-2479-9327-429d-d9e64bf4df06">
+      <Execution id="68e970b4-2e5f-4e21-89f4-549976870c94" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjasPlus.Tests.LoginTests" name="ShouldSeeIncorrectPass(&quot;&quot;,&quot;123pwd&quot;,&quot;Opps. Cadê o email?&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldFindUniqueMovie" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="5694b3c2-158f-44de-4ca4-bab979df83a4">
+      <Execution id="0b10adb5-ddb4-439d-9d50-0a0892b7156b" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SearchMovieTests" name="ShouldFindUniqueMovie" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeIncorrectPass(&quot;404@ninjaplus.com&quot;,&quot;123pwd&quot;,&quot;Usuário e/ou senha inválidos&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="04a823c6-463b-c78e-a1f1-31a90652b3ab">
+      <Execution id="475027d2-82a8-46f0-bc97-2fdfe555c16d" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjasPlus.Tests.LoginTests" name="ShouldSeeIncorrectPass(&quot;404@ninjaplus.com&quot;,&quot;123pwd&quot;,&quot;Usuário e/ou senha inválidos&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeIncorrectPass(&quot;paulo@ninjaplus.com&quot;,&quot;123456&quot;,&quot;Usuário e/ou senha inválidos&quot;)" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="4ea70cc2-7a0c-3b68-632a-1d12588bcb08">
+      <Execution id="d545f2dd-c830-40ba-9220-b8a266cbc7a8" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjasPlus.Tests.LoginTests" name="ShouldSeeIncorrectPass(&quot;paulo@ninjaplus.com&quot;,&quot;123456&quot;,&quot;Usuário e/ou senha inválidos&quot;)" />
+    </UnitTest>
+    <UnitTest name="ShouldSaveMovie" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="e62773c6-4041-3829-a47c-5e42126314da">
+      <Execution id="e46ce4c1-b8b4-498f-9c8b-c11da9d0c62d" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SaveTest" name="ShouldSaveMovie" />
+    </UnitTest>
+    <UnitTest name="ShouldDisplayMovieFound" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="a922b913-2ba2-b0b6-7607-8bd4dedf5498">
+      <Execution id="f8190ae1-81c3-4913-8083-5aed099c3672" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SearchMovieTests" name="ShouldDisplayMovieFound" />
+    </UnitTest>
+    <UnitTest name="ShouldFindMovies" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="cb89330b-0c80-a6f9-220c-6c663eef755d">
+      <Execution id="2ba72feb-a8b8-4d56-ba5e-c5edcc840d9a" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjaPlus.Tests.SearchMovieTests" name="ShouldFindMovies" />
+    </UnitTest>
+    <UnitTest name="ShouldBeHaveTitle" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="57941d4d-e8ad-da49-dd57-bf3aaea743df">
+      <Execution id="2234155d-72d9-4661-b827-ed70cdc0969b" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjasPlus.Tests.OnAirTest" name="ShouldBeHaveTitle" />
+    </UnitTest>
+    <UnitTest name="ShouldSeeLoggedUser" storage="c:\qaninja\ninjaplus-net\bin\debug\netcoreapp3.1\ninjaplus-net.dll" id="9abfaa99-8460-5ebc-6200-487d8c741b0b">
+      <Execution id="d4e08959-89c4-4dfe-8c78-a049316f792b" />
+      <TestMethod codeBase="C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="NinjasPlus.Tests.LoginTests" name="ShouldSeeLoggedUser" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="4ea70cc2-7a0c-3b68-632a-1d12588bcb08" executionId="d545f2dd-c830-40ba-9220-b8a266cbc7a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5694b3c2-158f-44de-4ca4-bab979df83a4" executionId="0b10adb5-ddb4-439d-9d50-0a0892b7156b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a922b913-2ba2-b0b6-7607-8bd4dedf5498" executionId="f8190ae1-81c3-4913-8083-5aed099c3672" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="04a823c6-463b-c78e-a1f1-31a90652b3ab" executionId="475027d2-82a8-46f0-bc97-2fdfe555c16d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9abfaa99-8460-5ebc-6200-487d8c741b0b" executionId="d4e08959-89c4-4dfe-8c78-a049316f792b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9c68b3c4-dbfb-c34b-3008-99b2525cf48d" executionId="da912f91-f70b-47c9-a174-bc880a9e65cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57941d4d-e8ad-da49-dd57-bf3aaea743df" executionId="2234155d-72d9-4661-b827-ed70cdc0969b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e62773c6-4041-3829-a47c-5e42126314da" executionId="e46ce4c1-b8b4-498f-9c8b-c11da9d0c62d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cb89330b-0c80-a6f9-220c-6c663eef755d" executionId="2ba72feb-a8b8-4d56-ba5e-c5edcc840d9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8bfeb03c-2479-9327-429d-d9e64bf4df06" executionId="68e970b4-2e5f-4e21-89f4-549976870c94" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados que não estão em uma lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos os resultados carregados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\qaninja\ninjaplus-net\bin\Debug\netcoreapp3.1\ninjaplus-net.dll&#xD;
+   NUnit3TestExecutor converted 10 of 10 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
