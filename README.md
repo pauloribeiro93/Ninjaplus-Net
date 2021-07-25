@@ -1,1 +1,1 @@
-"# Ninjaplus-Net" 
+# Ninjaplus-Net
