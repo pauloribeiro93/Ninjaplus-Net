@@ -9,8 +9,8 @@ namespace NinjaPlus.Tests
 {
     public class MoviePage
     {
-        private readonly BrowserSession _browser; //Atributo
-        public MoviePage(BrowserSession browser) //contrutor, isso é para usar o Coypu
+        private readonly BrowserSession _browser; 
+        public MoviePage(BrowserSession browser)
         {
             _browser = browser;
         }
@@ -23,7 +23,7 @@ namespace NinjaPlus.Tests
             _browser.FindCss("input[placeholder=Status]").Click();
             var option = _browser.FindCss("ul li span", text: status);
             option.Click();
-            //_browser.Select("Disponível").From("Status"); se fosse  uns Select seria só isso 
+   
         }
         private void InputCast(List<string> cast)
         {
@@ -41,8 +41,7 @@ namespace NinjaPlus.Tests
         private void UploadCover(string cover)
         {
             var jsScript = "document.getElementById('upcover').classList.remove('el-upload__input');";
-            //Já que o C# não exeuta JavaScript é necessario botar em uma variavel botar para executar e, 
-            //deixar tudo como string.
+ 
             _browser.ExecuteScript(jsScript);
 
             _browser.FindCss("#upcover").SendKeys(cover);
